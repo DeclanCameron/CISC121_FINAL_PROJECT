@@ -1,5 +1,7 @@
-# CISC121_FINAL_PROJECT
+# CISC121_FINAL_PROJECT - Playlist Vibe Builder
 GitHub repository for CISC121 final project: Playlist Vibe Builder - Declan Cameron
+
+#### Hugging Face app link: https://declan999-cisc-121-project.hf.space
 
 ## 1.	Chosen Problem: Playlist Vibe Builder:
 
